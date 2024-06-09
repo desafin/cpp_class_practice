@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "clion_cpp_class.exe"
+			"path" : "cpp_class_practice.exe"
 		},
 		{
-			"path" : "clion_cpp_class.pdb"
+			"path" : "cpp_class_practice.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -58,11 +58,11 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/desaf/Desktop/clion_cpp_class/include"
+					"path" : "C:/Users/desaf/Desktop/cpp_class_practice/include"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "C:/Users/desaf/Desktop/clion_cpp_class/src"
+					"path" : "C:/Users/desaf/Desktop/cpp_class_practice/src"
 				}
 			],
 			"language" : "CXX",
@@ -82,7 +82,7 @@
 			]
 		}
 	],
-	"id" : "clion_cpp_class::@6890427a1f51a3e7e1df",
+	"id" : "cpp_class_practice::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -102,8 +102,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "clion_cpp_class",
-	"nameOnDisk" : "clion_cpp_class.exe",
+	"name" : "cpp_class_practice",
+	"nameOnDisk" : "cpp_class_practice.exe",
 	"paths" : 
 	{
 		"build" : ".",

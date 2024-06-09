@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/desaf/Desktop/clion_cpp_class/cmake-build-debug"
+			"value" : "c:/Users/desaf/Desktop/cpp_class_practice/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/desaf/Desktop/clion_cpp_class/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/desaf/Desktop/cpp_class_practice/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/desaf/Desktop/clion_cpp_class"
+			"value" : "C:/Users/desaf/Desktop/cpp_class_practice"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/clion_cpp_class"
+			"value" : "C:/Program Files (x86)/cpp_class_practice"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "clion_cpp_class"
+			"value" : "cpp_class_practice"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1282,7 +1282,7 @@
 			"value" : "TRUE"
 		},
 		{
-			"name" : "clion_cpp_class_BINARY_DIR",
+			"name" : "cpp_class_practice_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1291,10 +1291,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/desaf/Desktop/clion_cpp_class/cmake-build-debug"
+			"value" : "C:/Users/desaf/Desktop/cpp_class_practice/cmake-build-debug"
 		},
 		{
-			"name" : "clion_cpp_class_IS_TOP_LEVEL",
+			"name" : "cpp_class_practice_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1306,7 +1306,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "clion_cpp_class_SOURCE_DIR",
+			"name" : "cpp_class_practice_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/desaf/Desktop/clion_cpp_class"
+			"value" : "C:/Users/desaf/Desktop/cpp_class_practice"
 		}
 	],
 	"kind" : "cache",

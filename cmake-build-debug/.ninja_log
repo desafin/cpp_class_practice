@@ -1,8 +1,11 @@
 # ninja log v6
-5	259	7395995198651665	CMakeFiles/clion_cpp_class.dir/main.cpp.obj	73bd5126024c7152
-260	332	7395995201200397	clion_cpp_class.exe	dd78ccff3cdfb658
-1	209	7396268525914437	build.ninja	711fcc3ee0e9082e
-8	65	7395993602753549	CMakeFiles/clion_cpp_class.dir/src/exp.cpp.obj	6184c63cbe6ff9b4
-9	152	7396272879821925	CMakeFiles/clion_cpp_class.dir/src/tower.cpp.obj	58fb6e4237ba1ea9
-5	282	7396272879781927	CMakeFiles/clion_cpp_class.dir/main.cpp.obj	73bd5126024c7152
-282	471	7396272882558262	clion_cpp_class.exe	187b985c979f4341
+2	188	7396286502861730	build.ninja	b0c635bc38b7779c
+9	50	7396285651821218	CMakeFiles/cpp_class_practice.dir/src/tower.cpp.obj	d08568ffab10ed54
+233	321	7396285654060608	cpp_class_practice.exe	2fb1de82280be20a
+4	55	7396285651771222	CMakeFiles/cpp_class_practice.dir/src/exp.cpp.obj	a2cad2d7f0c92dc1
+2	232	7396285651740613	CMakeFiles/cpp_class_practice.dir/main.cpp.obj	6efdfc553a862a7
+2	193	7396286502861730	build.ninja	b0c635bc38b7779c
+5	54	7396287744748571	CMakeFiles/cpp_class_practice.dir/src/exp.cpp.obj	a2cad2d7f0c92dc1
+54	114	7396287745235094	cpp_class_practice.exe	2fb1de82280be20a
+5	45	7396288114008312	CMakeFiles/cpp_class_practice.dir/src/exp.cpp.obj	a2cad2d7f0c92dc1
+45	105	7396288114418743	cpp_class_practice.exe	2fb1de82280be20a

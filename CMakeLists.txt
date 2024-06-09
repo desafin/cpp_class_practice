@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.28)
-project(clion_cpp_class)
+project(cpp_class_practice)
 
 set(CMAKE_CXX_STANDARD 17)
 
@@ -7,7 +7,8 @@ set(CMAKE_CXX_STANDARD 17)
 include_directories(${PROJECT_SOURCE_DIR}/include)
 include_directories(${PROJECT_SOURCE_DIR}/src)
 
-add_executable(clion_cpp_class main.cpp
+add_executable(cpp_class_practice main.cpp
+        main.cpp
         include/exp.h
         src/exp.cpp
         include/tower.h

@@ -14,7 +14,7 @@ exp::exp(int b) : base(b), exponent(int(1)) {}
 
 //지수를 정수로 계산하여 리턴하는 멤버 함수
 int exp::getvalue() const {
-    int result = 0;
+    int result = 1;
     for (int i = 0; i < exponent; i++) {
         result *= base;
     }

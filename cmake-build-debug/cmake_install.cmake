@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/desaf/Desktop/clion_cpp_class
+# Install script for directory: C:/Users/desaf/Desktop/cpp_class_practice
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/clion_cpp_class")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/cpp_class_practice")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/desaf/Desktop/clion_cpp_class/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/desaf/Desktop/cpp_class_practice/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
