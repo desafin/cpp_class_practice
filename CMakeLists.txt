@@ -13,4 +13,10 @@ add_executable(cpp_class_practice main.cpp
         src/exp.cpp
         include/tower.h
         src/tower.cpp
+        include/date.h
+        src/date.cpp
+        include/account.h
+        src/account.cpp
+        include/coffeemachine.h
+        src/coffeemachine.cpp
 )
