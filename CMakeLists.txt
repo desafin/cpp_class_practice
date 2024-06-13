@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.28)
+cmake_minimum_required(VERSION 3.16.3)
 project(cpp_class_practice)
 
 set(CMAKE_CXX_STANDARD 17)
@@ -19,4 +19,10 @@ add_executable(cpp_class_practice main.cpp
         src/account.cpp
         include/coffeemachine.h
         src/coffeemachine.cpp
+        include/person.h
+        src/person.cpp
+        include/morse.h
+        src/morse.cpp
+        include/book.h
+        src/book.cpp
 )

@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/worker/cpp_class_practice/build",
+  "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/main.cpp.o -c /home/worker/cpp_class_practice/main.cpp",
+  "file": "/home/worker/cpp_class_practice/main.cpp"
+},
+{
+  "directory": "/home/worker/cpp_class_practice/build",
+  "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/src/exp.cpp.o -c /home/worker/cpp_class_practice/src/exp.cpp",
+  "file": "/home/worker/cpp_class_practice/src/exp.cpp"
+},
+{
+  "directory": "/home/worker/cpp_class_practice/build",
+  "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/src/tower.cpp.o -c /home/worker/cpp_class_practice/src/tower.cpp",
+  "file": "/home/worker/cpp_class_practice/src/tower.cpp"
+},
+{
+  "directory": "/home/worker/cpp_class_practice/build",
+  "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/src/date.cpp.o -c /home/worker/cpp_class_practice/src/date.cpp",
+  "file": "/home/worker/cpp_class_practice/src/date.cpp"
+},
+{
+  "directory": "/home/worker/cpp_class_practice/build",
+  "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/src/account.cpp.o -c /home/worker/cpp_class_practice/src/account.cpp",
+  "file": "/home/worker/cpp_class_practice/src/account.cpp"
+},
+{
+  "directory": "/home/worker/cpp_class_practice/build",
+  "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/src/coffeemachine.cpp.o -c /home/worker/cpp_class_practice/src/coffeemachine.cpp",
+  "file": "/home/worker/cpp_class_practice/src/coffeemachine.cpp"
+},
+{
+  "directory": "/home/worker/cpp_class_practice/build",
+  "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/src/person.cpp.o -c /home/worker/cpp_class_practice/src/person.cpp",
+  "file": "/home/worker/cpp_class_practice/src/person.cpp"
+},
+{
+  "directory": "/home/worker/cpp_class_practice/build",
+  "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/src/morse.cpp.o -c /home/worker/cpp_class_practice/src/morse.cpp",
+  "file": "/home/worker/cpp_class_practice/src/morse.cpp"
+},
+{
+  "directory": "/home/worker/cpp_class_practice/build",
+  "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/src/book.cpp.o -c /home/worker/cpp_class_practice/src/book.cpp",
+  "file": "/home/worker/cpp_class_practice/src/book.cpp"
+}
+]

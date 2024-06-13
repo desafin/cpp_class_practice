@@ -4,6 +4,9 @@
 #include "date.h"
 #include "account.h" // include/account
 #include "coffeemachine.h"
+#include "person.h"
+#include "morse.h"
+#include "book.h"
 using namespace std;
 
 int main() {
@@ -45,5 +48,43 @@ int main() {
     java.fill();
     java.show();
 
+    Person father(1,"kitae");
+    Person daughter(father);
 
+    cout<< "daughter 객체 생성직후"<<endl;
+    father.show();
+    daughter.show();
+    daughter.changeName("Grace");
+    cout<<"daughter 이름을 Grace로 변경한 후"<<endl;
+    father.show();
+    daughter.show();
+
+
+    Morse morse;
+    std::string text = "HELLO WORLD";
+    std::string morseCode = morse.textToMorse(text);
+    std::cout << "Text: " << text << "\nMorse: " << morseCode << std::endl;
+
+    std::string morseMessage = ".... . .-.. .-.. --- / .-- --- .-. .-.. -..";
+    std::string decodedText = morse.morseToText(morseMessage);
+    std::cout << "Morse: " << morseMessage << "\nText: " << decodedText << std::endl;
+
+
+    Book book1("C++ Programming", 30000, 500);
+    Book book2("Data Structures", 20000, 300);
+    Book book3;
+
+    book1.show();
+    book2.show();
+
+    book3 = book1;
+    book3 += book2;
+    book3.show();
+
+    book3 -= book2;
+    book3.show();
+
+    return 0;
+    
 }
+

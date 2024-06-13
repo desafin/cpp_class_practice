@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/morse.h
+iostream
+-
+unordered_map
+-
+sstream
+-
+
+/home/worker/cpp_class_practice/src/morse.cpp
+morse.h
+/home/worker/cpp_class_practice/src/morse.h
+
