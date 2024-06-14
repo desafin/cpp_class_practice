@@ -27,5 +27,8 @@ add_executable(cpp_class_practice main.cpp
         src/book.cpp
         include/color.h
         src/color.cpp
-        
+        include/circle.h
+        src/circle.cpp
+        include/namedcircle.h
+        src/namedcircle.cpp
 )

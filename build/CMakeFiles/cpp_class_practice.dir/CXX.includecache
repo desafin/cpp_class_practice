@@ -16,6 +16,8 @@ iostream
 string
 -
 
+../include/circle.h
+
 ../include/coffeemachine.h
 iostream
 -
@@ -34,6 +36,14 @@ iostream
 unordered_map
 -
 sstream
+-
+
+../include/namedcircle.h
+circle.h
+../include/circle.h
+string
+-
+iostream
 -
 
 ../include/person.h
@@ -67,10 +77,18 @@ book.h
 /home/worker/cpp_class_practice/book.h
 color.h
 /home/worker/cpp_class_practice/color.h
+circle.h
+/home/worker/cpp_class_practice/circle.h
+namedcircle.h
+/home/worker/cpp_class_practice/namedcircle.h
 
-/home/worker/cpp_class_practice/src/color.cpp
-color.h
-/home/worker/cpp_class_practice/src/color.h
+/home/worker/cpp_class_practice/src/circle.cpp
+circle.h
+/home/worker/cpp_class_practice/src/circle.h
+
+/home/worker/cpp_class_practice/src/namedcircle.cpp
+namedcircle.h
+/home/worker/cpp_class_practice/src/namedcircle.h
 iostream
 -
 

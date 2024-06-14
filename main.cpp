@@ -8,6 +8,8 @@
 #include "morse.h"
 #include "book.h"
 #include "color.h"
+#include "circle.h"
+#include "namedcircle.h"
 using namespace std;
 
 int main() {
@@ -96,6 +98,11 @@ int main() {
         cout<<"두 색상은 같습니다."<<endl;
     else
         cout<<"두 색상은 다릅니다."<<endl;
+
+    namedCircle pizza(10, "피자");
+    pizza.show();
+    cout<<"이름은 "<<pizza.getName()<<"입니다."<<endl;
+    
 
 
 

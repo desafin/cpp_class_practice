@@ -3,11 +3,13 @@
 
 CMakeFiles/cpp_class_practice.dir/main.cpp.o: ../include/account.h
 CMakeFiles/cpp_class_practice.dir/main.cpp.o: ../include/book.h
+CMakeFiles/cpp_class_practice.dir/main.cpp.o: ../include/circle.h
 CMakeFiles/cpp_class_practice.dir/main.cpp.o: ../include/coffeemachine.h
 CMakeFiles/cpp_class_practice.dir/main.cpp.o: ../include/color.h
 CMakeFiles/cpp_class_practice.dir/main.cpp.o: ../include/date.h
 CMakeFiles/cpp_class_practice.dir/main.cpp.o: ../include/exp.h
 CMakeFiles/cpp_class_practice.dir/main.cpp.o: ../include/morse.h
+CMakeFiles/cpp_class_practice.dir/main.cpp.o: ../include/namedcircle.h
 CMakeFiles/cpp_class_practice.dir/main.cpp.o: ../include/person.h
 CMakeFiles/cpp_class_practice.dir/main.cpp.o: ../include/tower.h
 CMakeFiles/cpp_class_practice.dir/main.cpp.o: ../main.cpp
@@ -17,6 +19,9 @@ CMakeFiles/cpp_class_practice.dir/src/account.cpp.o: ../src/account.cpp
 
 CMakeFiles/cpp_class_practice.dir/src/book.cpp.o: ../include/book.h
 CMakeFiles/cpp_class_practice.dir/src/book.cpp.o: ../src/book.cpp
+
+CMakeFiles/cpp_class_practice.dir/src/circle.cpp.o: ../include/circle.h
+CMakeFiles/cpp_class_practice.dir/src/circle.cpp.o: ../src/circle.cpp
 
 CMakeFiles/cpp_class_practice.dir/src/coffeemachine.cpp.o: ../include/coffeemachine.h
 CMakeFiles/cpp_class_practice.dir/src/coffeemachine.cpp.o: ../src/coffeemachine.cpp
@@ -32,6 +37,10 @@ CMakeFiles/cpp_class_practice.dir/src/exp.cpp.o: ../src/exp.cpp
 
 CMakeFiles/cpp_class_practice.dir/src/morse.cpp.o: ../include/morse.h
 CMakeFiles/cpp_class_practice.dir/src/morse.cpp.o: ../src/morse.cpp
+
+CMakeFiles/cpp_class_practice.dir/src/namedcircle.cpp.o: ../include/circle.h
+CMakeFiles/cpp_class_practice.dir/src/namedcircle.cpp.o: ../include/namedcircle.h
+CMakeFiles/cpp_class_practice.dir/src/namedcircle.cpp.o: ../src/namedcircle.cpp
 
 CMakeFiles/cpp_class_practice.dir/src/person.cpp.o: ../include/person.h
 CMakeFiles/cpp_class_practice.dir/src/person.cpp.o: ../src/person.cpp

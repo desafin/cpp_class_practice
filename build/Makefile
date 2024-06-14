@@ -204,6 +204,33 @@ src/book.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp_class_practice.dir/build.make CMakeFiles/cpp_class_practice.dir/src/book.cpp.s
 .PHONY : src/book.cpp.s
 
+src/circle.o: src/circle.cpp.o
+
+.PHONY : src/circle.o
+
+# target to build an object file
+src/circle.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_class_practice.dir/build.make CMakeFiles/cpp_class_practice.dir/src/circle.cpp.o
+.PHONY : src/circle.cpp.o
+
+src/circle.i: src/circle.cpp.i
+
+.PHONY : src/circle.i
+
+# target to preprocess a source file
+src/circle.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_class_practice.dir/build.make CMakeFiles/cpp_class_practice.dir/src/circle.cpp.i
+.PHONY : src/circle.cpp.i
+
+src/circle.s: src/circle.cpp.s
+
+.PHONY : src/circle.s
+
+# target to generate assembly for a file
+src/circle.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_class_practice.dir/build.make CMakeFiles/cpp_class_practice.dir/src/circle.cpp.s
+.PHONY : src/circle.cpp.s
+
 src/coffeemachine.o: src/coffeemachine.cpp.o
 
 .PHONY : src/coffeemachine.o
@@ -339,6 +366,33 @@ src/morse.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp_class_practice.dir/build.make CMakeFiles/cpp_class_practice.dir/src/morse.cpp.s
 .PHONY : src/morse.cpp.s
 
+src/namedcircle.o: src/namedcircle.cpp.o
+
+.PHONY : src/namedcircle.o
+
+# target to build an object file
+src/namedcircle.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_class_practice.dir/build.make CMakeFiles/cpp_class_practice.dir/src/namedcircle.cpp.o
+.PHONY : src/namedcircle.cpp.o
+
+src/namedcircle.i: src/namedcircle.cpp.i
+
+.PHONY : src/namedcircle.i
+
+# target to preprocess a source file
+src/namedcircle.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_class_practice.dir/build.make CMakeFiles/cpp_class_practice.dir/src/namedcircle.cpp.i
+.PHONY : src/namedcircle.cpp.i
+
+src/namedcircle.s: src/namedcircle.cpp.s
+
+.PHONY : src/namedcircle.s
+
+# target to generate assembly for a file
+src/namedcircle.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_class_practice.dir/build.make CMakeFiles/cpp_class_practice.dir/src/namedcircle.cpp.s
+.PHONY : src/namedcircle.cpp.s
+
 src/person.o: src/person.cpp.o
 
 .PHONY : src/person.o
@@ -411,6 +465,9 @@ help:
 	@echo "... src/book.o"
 	@echo "... src/book.i"
 	@echo "... src/book.s"
+	@echo "... src/circle.o"
+	@echo "... src/circle.i"
+	@echo "... src/circle.s"
 	@echo "... src/coffeemachine.o"
 	@echo "... src/coffeemachine.i"
 	@echo "... src/coffeemachine.s"
@@ -426,6 +483,9 @@ help:
 	@echo "... src/morse.o"
 	@echo "... src/morse.i"
 	@echo "... src/morse.s"
+	@echo "... src/namedcircle.o"
+	@echo "... src/namedcircle.i"
+	@echo "... src/namedcircle.s"
 	@echo "... src/person.o"
 	@echo "... src/person.i"
 	@echo "... src/person.s"

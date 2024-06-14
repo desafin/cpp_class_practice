@@ -48,5 +48,15 @@
   "directory": "/home/worker/cpp_class_practice/build",
   "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/src/color.cpp.o -c /home/worker/cpp_class_practice/src/color.cpp",
   "file": "/home/worker/cpp_class_practice/src/color.cpp"
+},
+{
+  "directory": "/home/worker/cpp_class_practice/build",
+  "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/src/circle.cpp.o -c /home/worker/cpp_class_practice/src/circle.cpp",
+  "file": "/home/worker/cpp_class_practice/src/circle.cpp"
+},
+{
+  "directory": "/home/worker/cpp_class_practice/build",
+  "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/src/namedcircle.cpp.o -c /home/worker/cpp_class_practice/src/namedcircle.cpp",
+  "file": "/home/worker/cpp_class_practice/src/namedcircle.cpp"
 }
 ]
