@@ -25,4 +25,7 @@ add_executable(cpp_class_practice main.cpp
         src/morse.cpp
         include/book.h
         src/book.cpp
+        include/color.h
+        src/color.cpp
+        
 )

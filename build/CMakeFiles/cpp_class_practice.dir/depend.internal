@@ -3,7 +3,9 @@
 
 CMakeFiles/cpp_class_practice.dir/main.cpp.o
  ../include/account.h
+ ../include/book.h
  ../include/coffeemachine.h
+ ../include/color.h
  ../include/date.h
  ../include/exp.h
  ../include/morse.h
@@ -13,9 +15,15 @@ CMakeFiles/cpp_class_practice.dir/main.cpp.o
 CMakeFiles/cpp_class_practice.dir/src/account.cpp.o
  ../include/account.h
  /home/worker/cpp_class_practice/src/account.cpp
+CMakeFiles/cpp_class_practice.dir/src/book.cpp.o
+ ../include/book.h
+ /home/worker/cpp_class_practice/src/book.cpp
 CMakeFiles/cpp_class_practice.dir/src/coffeemachine.cpp.o
  ../include/coffeemachine.h
  /home/worker/cpp_class_practice/src/coffeemachine.cpp
+CMakeFiles/cpp_class_practice.dir/src/color.cpp.o
+ ../include/color.h
+ /home/worker/cpp_class_practice/src/color.cpp
 CMakeFiles/cpp_class_practice.dir/src/date.cpp.o
  ../include/date.h
  /home/worker/cpp_class_practice/src/date.cpp

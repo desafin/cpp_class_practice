@@ -7,6 +7,7 @@
 #include "person.h"
 #include "morse.h"
 #include "book.h"
+#include "color.h"
 using namespace std;
 
 int main() {
@@ -83,6 +84,20 @@ int main() {
 
     book3 -= book2;
     book3.show();
+
+    color red(255, 0, 0);
+    color blue(0, 0, 255);
+    color pupple;
+    pupple = red + blue;
+    pupple.show();
+
+    color fuchsia(255, 0, 255);
+    if(pupple==fuchsia)
+        cout<<"두 색상은 같습니다."<<endl;
+    else
+        cout<<"두 색상은 다릅니다."<<endl;
+
+
 
     return 0;
     

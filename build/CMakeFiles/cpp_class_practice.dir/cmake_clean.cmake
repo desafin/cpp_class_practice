@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp_class_practice.dir/src/account.cpp.o"
   "CMakeFiles/cpp_class_practice.dir/src/book.cpp.o"
   "CMakeFiles/cpp_class_practice.dir/src/coffeemachine.cpp.o"
+  "CMakeFiles/cpp_class_practice.dir/src/color.cpp.o"
   "CMakeFiles/cpp_class_practice.dir/src/date.cpp.o"
   "CMakeFiles/cpp_class_practice.dir/src/exp.cpp.o"
   "CMakeFiles/cpp_class_practice.dir/src/morse.cpp.o"

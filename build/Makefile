@@ -231,6 +231,33 @@ src/coffeemachine.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp_class_practice.dir/build.make CMakeFiles/cpp_class_practice.dir/src/coffeemachine.cpp.s
 .PHONY : src/coffeemachine.cpp.s
 
+src/color.o: src/color.cpp.o
+
+.PHONY : src/color.o
+
+# target to build an object file
+src/color.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_class_practice.dir/build.make CMakeFiles/cpp_class_practice.dir/src/color.cpp.o
+.PHONY : src/color.cpp.o
+
+src/color.i: src/color.cpp.i
+
+.PHONY : src/color.i
+
+# target to preprocess a source file
+src/color.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_class_practice.dir/build.make CMakeFiles/cpp_class_practice.dir/src/color.cpp.i
+.PHONY : src/color.cpp.i
+
+src/color.s: src/color.cpp.s
+
+.PHONY : src/color.s
+
+# target to generate assembly for a file
+src/color.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_class_practice.dir/build.make CMakeFiles/cpp_class_practice.dir/src/color.cpp.s
+.PHONY : src/color.cpp.s
+
 src/date.o: src/date.cpp.o
 
 .PHONY : src/date.o
@@ -387,6 +414,9 @@ help:
 	@echo "... src/coffeemachine.o"
 	@echo "... src/coffeemachine.i"
 	@echo "... src/coffeemachine.s"
+	@echo "... src/color.o"
+	@echo "... src/color.i"
+	@echo "... src/color.s"
 	@echo "... src/date.o"
 	@echo "... src/date.i"
 	@echo "... src/date.s"

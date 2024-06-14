@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/worker/cpp_class_practice/src/account.cpp" "/home/worker/cpp_class_practice/build/CMakeFiles/cpp_class_practice.dir/src/account.cpp.o"
   "/home/worker/cpp_class_practice/src/book.cpp" "/home/worker/cpp_class_practice/build/CMakeFiles/cpp_class_practice.dir/src/book.cpp.o"
   "/home/worker/cpp_class_practice/src/coffeemachine.cpp" "/home/worker/cpp_class_practice/build/CMakeFiles/cpp_class_practice.dir/src/coffeemachine.cpp.o"
+  "/home/worker/cpp_class_practice/src/color.cpp" "/home/worker/cpp_class_practice/build/CMakeFiles/cpp_class_practice.dir/src/color.cpp.o"
   "/home/worker/cpp_class_practice/src/date.cpp" "/home/worker/cpp_class_practice/build/CMakeFiles/cpp_class_practice.dir/src/date.cpp.o"
   "/home/worker/cpp_class_practice/src/exp.cpp" "/home/worker/cpp_class_practice/build/CMakeFiles/cpp_class_practice.dir/src/exp.cpp.o"
   "/home/worker/cpp_class_practice/src/morse.cpp" "/home/worker/cpp_class_practice/build/CMakeFiles/cpp_class_practice.dir/src/morse.cpp.o"

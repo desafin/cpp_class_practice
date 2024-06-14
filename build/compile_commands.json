@@ -43,5 +43,10 @@
   "directory": "/home/worker/cpp_class_practice/build",
   "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/src/book.cpp.o -c /home/worker/cpp_class_practice/src/book.cpp",
   "file": "/home/worker/cpp_class_practice/src/book.cpp"
+},
+{
+  "directory": "/home/worker/cpp_class_practice/build",
+  "command": "/usr/bin/c++   -I/home/worker/cpp_class_practice/include -I/home/worker/cpp_class_practice/src  -g   -std=gnu++17 -o CMakeFiles/cpp_class_practice.dir/src/color.cpp.o -c /home/worker/cpp_class_practice/src/color.cpp",
+  "file": "/home/worker/cpp_class_practice/src/color.cpp"
 }
 ]
